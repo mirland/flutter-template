@@ -36,7 +36,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   auto_route: 3.2.0
-  bloc: 8.0.1
+  bloc: 8.1.4
   cupertino_icons: 1.0.2
   dio: 4.0.4 # networking
   equatable: 2.0.3
