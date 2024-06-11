@@ -40,7 +40,7 @@ dependencies:
   cupertino_icons: 1.0.2
   dio: 4.0.4 # networking
   equatable: 2.0.3
-  flutter_bloc: 8.0.0
+  flutter_bloc: 8.1.6
   flutter_secure_storage: 5.0.2
   freezed_annotation: 1.1.0
   get_it: 7.2.0
